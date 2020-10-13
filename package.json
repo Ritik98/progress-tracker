@@ -1,6 +1,6 @@
 {
   "homepage": "http://Ritik98.github.io/progress-tracker"
-  "name": "progresstracker",
+  "name": "progress-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
